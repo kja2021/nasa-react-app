@@ -1,2 +1,2 @@
-# nasa-react-app
- NASA Picture of the Day W. NASA API and REACTJS
+# nasa-pod-app
+ NASA Picture of the Day - W. API and REACTJS
